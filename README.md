@@ -1,1 +1,2 @@
 # gitconflicts
+apple
